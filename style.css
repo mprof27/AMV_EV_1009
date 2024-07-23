@@ -488,7 +488,7 @@ nav{
     text-align: center;
 }
 
-/* MEDIA QUERIES*/
+/*============= MEDIA QUERIES =============*/
 @media (width > 480px){
     .header-content h1{
         font-size: 4rem;
