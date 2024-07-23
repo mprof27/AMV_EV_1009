@@ -53,3 +53,4 @@ const swiper = new Swiper(".swiper", {
 });
 
 // end code here~
+// updated not necessary
